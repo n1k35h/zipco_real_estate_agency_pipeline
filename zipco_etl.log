@@ -1,0 +1,3 @@
+2025-08-24 21:48:44,261:INFO:ETL Pipeline started.
+2025-08-24 21:48:48,580:INFO:Rows: raw_properties=500, transform_properties=500
+2025-08-24 21:48:48,580:INFO:ETL Pipeline completed successfully.
