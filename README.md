@@ -108,4 +108,4 @@ property_facts --> full_address, latitude, longitude, legal_description, sub_div
 
 Author:
 
-If you like this project, please give this project a ⭐, thanks 😄 
+Developed by Nikesh Mistry, If you like this project, please give this project a ⭐, thanks 😄 
