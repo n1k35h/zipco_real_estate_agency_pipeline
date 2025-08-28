@@ -106,6 +106,5 @@ Fact Table:
 property_facts --> full_address, latitude, longitude, legal_description, sub_division
 ```
 
-Author:
-
+## Author:
 Developed by Nikesh Mistry, If you like this project, please give this project a ⭐, thanks 😄 
